@@ -1,0 +1,2 @@
+PLease use this link for down load BIApp. This App using winform.Net for front-end and ASP.Net api for backend
+https://drive.google.com/drive/folders/10TCOJn61tYhpeRN3r8YgRSDQHYUpvKP_?hl=vi
